@@ -13,6 +13,7 @@ in this repository, you will find the <b>starterFiles</b> as well as the <b>comp
 <br>
 in addition, you can find several Software Testing Checklist PDF files in different colours!
 <br>
+<br>
 please feel free to use, change, improve upon, refine my code or graphics as you wish!
 <br>
 if you wrote some new incredible tests - please share it with our lovely community! 
