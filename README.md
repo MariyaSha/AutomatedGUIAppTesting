@@ -12,8 +12,7 @@ an exercise to practice Python software testing with unittest - learn what to te
 in this repository, you will find the <b>starterFiles</b> as well as the <b>completeApp</b> directories.
 <br>
 in addition, you can find several Software Testing Checklist PDF files in different colours!
-<br>
-<br>
+<h2>Open Source</h2>
 please feel free to use, change, improve upon, refine my code or graphics as you wish!
 <br>
 if you wrote some new incredible tests - please share it with our lovely community! 
