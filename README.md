@@ -1,6 +1,7 @@
 # AutomatedGUIAppTesting
 an exercise to practice Python software testing with unittest - learn what to test and how to test it!
 <br>
+<br>
 Author: Mariya Sha
 <br>
 Watch Step by Step Tutorial: https://youtu.be/EqJWhlC1H6k
